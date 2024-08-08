@@ -8,4 +8,4 @@ A small signaling project based on Websocket. To get started,
 
 ![Image Placeholder](https://github.com/YKuvonchbek/WebSocket-Signaling/blob/main/image_1681813918.png)
 
-4. Use your tunnel address as `ws://<your global address>/ws` on client side.
+4. Use your tunnel address as `ws://<your tunnel address>/ws` on the client side.
